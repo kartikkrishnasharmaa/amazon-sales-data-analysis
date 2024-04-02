@@ -21,7 +21,7 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 [![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
 <!-- ![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
 [![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
-Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
+Watch the complete Dashboard video [Link](https://www.youtube.com/watch?v=HEQ4g-LwLFI)
 
 ## ✔️ Conclusion
 1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
@@ -35,17 +35,17 @@ Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
 ## 🗂 Documentation
 
-[High Level Document]()
+[High Level Document](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/HLD%20Document.pdf)
 
-[Low Level Document]()
+[Low Level Document](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/LLD%20Document.pdf)
 
-[Architecture]()
+[Architecture](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/Architecture.pdf)
 
-[WireFrame]()
+[WireFrame](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/Wireframe.pdf)
 
-[Report]()
+[Report](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/Amazon%20sales%20report.pptx)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/cse-kartik-sharma/)
 
