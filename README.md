@@ -45,7 +45,3 @@ Watch the complete Dashboard video [Link](https://www.youtube.com/watch?v=HEQ4g-
 
 [Report](https://github.com/kartikkrishnasharmaa/amazon-sales-data-analysis/blob/main/Amazon%20sales%20report.pptx)
 
-## 📩 Feedback
-
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/cse-kartik-sharma/)
-
