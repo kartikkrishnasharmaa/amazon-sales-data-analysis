@@ -3,8 +3,7 @@
 [![image.png](https://i.postimg.cc/59nmV0Fk/image.png)](https://postimg.cc/0rKSG9np)
 
 
-# Amazon Sales Data Analysis Project 📊
-
+# Amazon Sales Data Analysis Project 
 
 
 ## ❓ Problem Statement
